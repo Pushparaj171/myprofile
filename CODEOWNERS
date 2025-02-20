@@ -1,1 +1,8 @@
-/ pushparaj171
+# Default reviewer for the entire repository
+* @pushparaj171
+
+# Reviewer for files in the docs folder
+/docs/* @pushparaj171
+
+# Reviewer for files in the src folder
+/src/* @pushparaj171
